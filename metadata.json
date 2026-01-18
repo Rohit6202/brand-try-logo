@@ -1,0 +1,8 @@
+{
+  "name": "BrandVise AI: Smart Logo & Product Studio",
+  "description": "A comprehensive design studio where you can upload logos, preview them on mockups, edit them with AI, and generate high-fidelity brand assets using Gemini 3 and Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
